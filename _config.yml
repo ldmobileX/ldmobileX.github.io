@@ -1,8 +1,8 @@
-domain: example.com
-url: https://example.com
-baseurl: "/wind"
+domain: https://ldmobilex.github.io/
+url: https://ldmobilex.github.io/
+baseurl: ""
 
-title: Wind
+title: Lisa
 email: wind@example.com
 author: Wind Sample
 
