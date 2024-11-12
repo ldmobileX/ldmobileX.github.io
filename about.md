@@ -2,22 +2,12 @@
 title: about
 layout: page
 ---
-## Modo nostra
+## Lisa Maria DiSalvo - Researcher @ CEAL Lab (Columbia University)
 
-Lorem markdownum mihi; hic sonantem tenebat telum successu mollierant inani
-avoque. Harena et laedor bisque moenia veniat facit lebetes tum non?
+Lisa works at the CEAL Lab
 
-> Iunctissima lapsus illis; venit protervis exequialia absit tristia et
-> **locum** cum ut ad convertor tamen. Ad mea cui! Pedibus sit inque quaerit [ac
-> eadem](http://clamavit.io/), quid, aurum quam videt ille. Aiax harenam, et
-> salices equos, captis, Iovis.
+## CommunityAR is her most recent research work in the lab. It is considered Empirical Research. System for a Study
 
-## Cumque ardor
-
-Suspiria seque sui quot, stare non profuso adsensere ignibus. Nata nomen rude
-veniam. Colore alta avido, relicta obnoxia vivosque Ereboque animosque meae,
-festas, Cythereia tu stare scitusque. Indefessus urbes eodem tuo liceat dives
-Telamonius nobis aetheriae, illam, in heu idemque **an**.
 
     key(gigabyteHoverClick - kilohertz, latencyPad);
     process_password(heap_barcraft_file(matrix - dos_icio_blacklist,
